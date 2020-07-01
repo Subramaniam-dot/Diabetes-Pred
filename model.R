@@ -1,6 +1,6 @@
 
 # Importing libraries
-library(RCurl) # for downloading the iris CSV file
+library(RCurl) 
 library(randomForest)
 library(caret)
 
